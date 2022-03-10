@@ -4,7 +4,7 @@ package com.blz.hashtable;
    @purpose: Ability to add node,insert,delete,delete last,delete first
    @param: Takes a newNode as a input
    @function : Adds new node before first node
-   @return: No return value.
+   @return: No return value
   */
 
 public class MyLinkedList<K> {

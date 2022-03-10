@@ -28,7 +28,7 @@ public class MyMapNode<K, V> implements INode<K> {
 	}
 
 	public INode<K> getNext() {
-		// TODO Auto-generated method stub
+// TODO Auto-generated method stub
 		return next;
 	}
 
